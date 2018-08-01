@@ -1,0 +1,6 @@
+D:\11. Arif\Tutorial\@Javascript\TutorialJS\TutorialJS\bin\TutorialJS.dll.config
+D:\11. Arif\Tutorial\@Javascript\TutorialJS\TutorialJS\bin\TutorialJS.dll
+D:\11. Arif\Tutorial\@Javascript\TutorialJS\TutorialJS\bin\TutorialJS.pdb
+D:\11. Arif\Tutorial\@Javascript\TutorialJS\TutorialJS\obj\Debug\TutorialJS.csprojResolveAssemblyReference.cache
+D:\11. Arif\Tutorial\@Javascript\TutorialJS\TutorialJS\obj\Debug\TutorialJS.dll
+D:\11. Arif\Tutorial\@Javascript\TutorialJS\TutorialJS\obj\Debug\TutorialJS.pdb
