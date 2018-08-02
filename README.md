@@ -1,2 +1,2 @@
 # latihan
-buat latihan aja
+hanya buat latihan aja
